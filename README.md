@@ -1,7 +1,7 @@
 ### Hi there 👋
 🔭 I'm currently part of the Odoo community (https://github.com/OCA)
 
-<a rel="me" href="https://mastodon.online/@MikeTelahun">I'm on the Mastodon !</a>
+<a rel="me" href="https://mastodon.online/@MikeTelahun">I'm on Mastodon !</a>
 
 <!--
 **mtelahun/mtelahun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
